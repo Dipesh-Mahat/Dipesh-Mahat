@@ -15,8 +15,7 @@
 - 🌱 I’m currently learning **Advanced Cyber Security**, **Digital Forensics**, and **Ethical Hacking**
 - 💻 Most of my projects live under: `D-Dark-Lab`, `Project24`, `Drimics-Games`, `Minix-Lab`
 - ⚒️ Building daily under 24-hour challenge cycles: **Speed + Execution + Ethics**
-- 🎯 Vision: To become a **man of focus, discipline, and values**
-- 💬 Ask me about **Python, Linux, Penetration Testing, React, or Git**
+- 🎯 Vision: To become a **Vision**
 
 ---
 
