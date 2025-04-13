@@ -28,17 +28,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-00BFFF?style=flat-square&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Python-00BFFF?style=flat-square&logo=python&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-React-00BFFF?style=flat-square&logo=react&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Node.js-00BFFF?style=flat-square&logo=node.js&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-MongoDB-00BFFF?style=flat-square&logo=mongodb&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-00BFFF?style=flat-square&logo=tailwind-css&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Linux-00BFFF?style=flat-square&logo=linux&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Git-00BFFF?style=flat-square&logo=git&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-VSCode-00BFFF?style=flat-square&logo=visual-studio-code&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-00BFFF?style=flat-square&logo=kali-linux&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-Burp%20Suite-00BFFF?style=flat-square&logo=burp-suite&logoColor=000000" />
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,react,nodejs,mongodb,kali,burpsuite,wireshark,tails" />
 </p>
 
 ---
