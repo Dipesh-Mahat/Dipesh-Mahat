@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=Dipesh-Mahat&label=Profile%20Views&color=00BFFF&style=flat" alt="profile views" />
 </p>
 
-<p style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">About Me</p>
+<p style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">About Me:</p>
 
 <img src="https://github.com/Dipesh-Mahat/Dipesh-Mahat/blob/main/DipeshMahat.jpg" alt="Dipesh Mahat" width="230" align="right" style="border-radius: 10px; margin-left: 20px;" />
 
@@ -21,11 +21,11 @@
 
 <em>"Discipline is my code. Integrity is my firewall."</em>
 
-<br>
 
-<p style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">Tech Stack</p>
+<p style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">Skill Set:</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,javascript,react,nodejs,mongodb,kali,burpsuite,wireshark,tails" />
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,postgres,linux,docker,git,github,figma,kali,burpsuite,wireshark,tails,vscode,vercel,nginx,cloudflare" />
 </p>
+
 
