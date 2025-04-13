@@ -10,29 +10,25 @@
   <img src="https://komarev.com/ghpvc/?username=Dipesh-Mahat&label=Profile%20Views&color=00BFFF&style=flat" alt="profile views" />
 </p>
 
-<table>
-<tr>
-<td>
+<div align="left">
 
-## About Me
+<h2>About Me</h2>
 
-🚀 A passionate developer and cyber security enthusiast building a future-proof skillset with focus, discipline, and integrity.
+<img src="https://github.com/Dipesh-Mahat/Dipesh-Mahat/blob/main/DipeshMahat.jpg" alt="Dipesh Mahat" width="230" align="right" style="border-radius: 10px; margin-left: 20px;" />
 
-- 🌱 Currently mastering **Advanced Cyber Security**, **Digital Forensics**, and **Ethical Hacking**.  
-- ⚒️ Thriving on 24-hour challenge cycles: **Speed + Precision + Ethics**.  
-- 🎯 Vision: To architect secure systems and protect the digital world.
+🚀 A passionate developer and cyber security enthusiast building a future-proof skillset with focus, discipline, and integrity.  
+🌱 Currently mastering <strong>Advanced Cyber Security</strong>, <strong>Digital Forensics</strong>, and <strong>Ethical Hacking</strong>.  
+⚒️ Thriving on 24-hour challenge cycles: <strong>Speed + Precision + Ethics</strong>.  
+🎯 Vision: To architect secure systems and protect the digital world.
 
-> _"Discipline is my code. Integrity is my firewall."_
+<em>"Discipline is my code. Integrity is my firewall."</em>
 
-## Tech Stack
+<br><br>
+
+<h2>Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,javascript,react,nodejs,mongodb,kali,burpsuite,wireshark,tails" />
 </p>
 
-</td>
-<td>
-  <img src="https://github.com/Dipesh-Mahat/Dipesh-Mahat/blob/main/DipeshMahat.jpg" alt="Dipesh Mahat" width="250" style="border-radius:10px" />
-</td>
-</tr>
-</table>
+</div>
