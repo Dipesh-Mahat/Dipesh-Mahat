@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 🚀 A passionate developer and cyber security enthusiast building a future-proof skillset with focus, discipline, and integrity.
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-00BFFF?style=flat-square&logo=javascript&logoColor=000000" />
@@ -42,41 +42,3 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dipesh-Mahat&theme=algolia&no-frame=true&margin-w=10&rank=SECRET,SSS,AAA,AA,A,B,C" />
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Dipesh-Mahat&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dipesh-Mahat&theme=midnight-purple&hide_border=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dipesh-Mahat&layout=compact&theme=midnight-purple&hide_border=true" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dipesh-Mahat&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:dipesh.mahat.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" /></a>
-  <a href="https://github.com/Dipesh-Mahat"><img src="https://img.shields.io/badge/-GitHub-00BFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" /></a>
-</p>
-
----
-
-> _"Discipline. Vision. Integrity. This is how I build — this is how I grow."_  
-> – Dipesh Mahat 🔒
