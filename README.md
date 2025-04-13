@@ -10,10 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=Dipesh-Mahat&label=Profile%20Views&color=00BFFF&style=flat" alt="profile views" />
 </p>
 
+<table>
+<tr>
+<td>
+
 ## About Me
-<p align="right">
-  <img src="https://github.com/Dipesh-Mahat/Dipesh-Mahat/blob/main/DipeshMahat.jpg" alt="Dipesh Mahat" width="120" style="border-radius: 10px;" />
-</p>
 
 🚀 A passionate developer and cyber security enthusiast building a future-proof skillset with focus, discipline, and integrity.
 
@@ -23,14 +24,15 @@
 
 > _"Discipline is my code. Integrity is my firewall."_
 
-
 ## Tech Stack
-<p align="right">
-  <img src="https://github.com/Dipesh-Mahat/Dipesh-Mahat/blob/main/DipeshMahat.jpg" alt="Dipesh Mahat" width="100" style="border-radius: 10px;" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,javascript,react,nodejs,mongodb,kali,burpsuite,wireshark,tails" />
 </p>
 
-
+</td>
+<td>
+  <img src="https://github.com/Dipesh-Mahat/Dipesh-Mahat/blob/main/DipeshMahat.jpg" alt="Dipesh Mahat" width="250" style="border-radius:10px" />
+</td>
+</tr>
+</table>
