@@ -13,5 +13,5 @@
 
 <h3 style="font-size: 24px; font-weight: bold; margin-bottom: 10px;">Skill Set:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,postgres,linux,docker,git,github,figma,kali,burpsuite,wireshark,tails,vscode,vercel,nginx,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=python,bash,javascript,typescript,react,nextjs,nodejs,express,mongodb,linux,docker,git,github,figma,kali,vscode,vercel" />
 </p>
